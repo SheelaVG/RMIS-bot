@@ -1,0 +1,48 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hii",
+          "Hey",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day",
+          "Happy day",
+          "what is the act ABCD",
+          "act-2004",
+          "act-2003"
+        ],
+        "responses": [
+          
+          
+          "The undersigned is directed to say that Government had been receiving proposals from coal companies seeking permission for leasing of land acquired under Coal Bearing Areas (Acquisition & Development) Act"
+         
+          
+   
+        ]
+      },
+      {
+        "tag": "question",
+        "patterns": [
+          "What are some of the primary environmental consequences associated with coal mining?",
+          "How did the Industrial Revolution intensify environmental challenges related to coal extraction",
+          "In what ways did coal mining activities contribute to ecological changes in coal-rich regions",
+          "Can you discuss the specific environmental impacts of 19th-century coal mining practices",
+          "Were there technological advancements that exacerbated environmental issues in coal mining history?",
+          "What significant events marked key milestones in the environmental impact of coal mining? "
+        ],
+        "responses": [
+          
+          
+          "Coal mining has historically led to significant environmental consequences. The Industrial Revolution heightened these challenges, impacting ecosystems in coal-rich regions. 19th-century coal mining practices, coupled with certain technological advancements, contributed to air and water quality issues."
+         
+          
+   
+        ]
+      }
+      
+    ]
+  }
